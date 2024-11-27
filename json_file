@@ -1,32 +1,14 @@
 [
-{
-"_id": 1,
-"name" : "tawfiq Hussein",
-"username" : "tawfiq",
-"email" : "Sincere@april.biz",
-"address" : { "street": "Kulas Light", "suite": "Apt. 556", "city": "Gwenborough", "zipcode": "92998-3874", "geo": "lat": "-37.3159", "lng": "81.1496" }
-"phone" : 1-770-736-8031 x56442,
-"website" : "hildegard.org",
-"company : { "name": "Romaguera-Crona", "catchPhrase": "Multi-layered client-server neural-net", "bs": "harness real-time e-markets" },
-} ,
-{
-"_id": 2,
-"name" : "tawfiq Hin",
-"username" : "taw",
-"email" : "Sire@april.biz",
-"address" : { "street": "Kulas Light", "suite": "Apt. 556", "city": "Gwenb", "zipcode": "92998-3874", "geo": "lat": "-37.3159", "lng": "81.1496" }
-"phone" : 1-770-736-8031 x56442,
-"website" : "hildegard.org",
-"company : { "name": "Romaguera-Crona", "catchPhrase": "Multi-layered client-server neural-net", "bs": "ha s" },
-} ,
-{
-"_id": 3,
-"name" : "tawfiq Hin",
-"username" : "taw",
-"email" : "Sincere@april.biz",
-"address" : { "street": "Kulas Light", "suite": "Apt. 556", "city": "Gwenb", "zipcode": "92998-3874", "geo": "lat": "-37.3159", "lng": "81.1496" }
-"phone" : 1-770-736-8031 x56442,
-"website" : "hildegard.org",
-"company : { "name": "Romaguera-Crona", "catchPhrase": "Multi-layered client-server neural-net", "bs": "harness s" },
-}
-]
+    {
+            "_id": 1,
+            "name": "New Name",
+            "username": "newusername",
+            "email": "newemail@example.com"
+    },
+ {
+            "_id": 2,
+            "name": "Farid",
+            "username": "newusrname",
+            "email": "newemail@exle.com"
+    }
+  ]
