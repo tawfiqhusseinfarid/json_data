@@ -10,5 +10,11 @@
             "name": "Farid",
             "username": "newusrname",
             "email": "newemail@exle.com"
+    },
+ {
+            "_id": 3,
+            "name": "tawfiq",
+            "username": "username",
+            "email": "email@exle.com"
     }
   ]
